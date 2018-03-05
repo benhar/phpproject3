@@ -1,0 +1,42 @@
+Project Name : Student Record System
+
+Technologies Used : PHP 5.6, MYSQL, HTML,CSS, JAVASCRIPT, JQUERY, AJAX
+Features of Projects
+
+Course Creation(Add, edit and delete)
+Subject combination with Course (Add, edit and delete)
+
+Students Registration:
+Manage Student(View ,edit and Delete)
+Login
+logout
+
+Database tables:
+cities
+countries
+registration
+session
+states
+subject
+tbl_course
+tbl_login
+
+Software Requirement(any one):
+WAMP
+XAMPP
+MAMP
+LAMP
+
+Installation Steps(Configuration)
+1. Download and Unzip file on your local system.
+2. Put this file inside xampp/htdocs/ .
+3. Database Configuration
+
+Open phpmyadmin
+Create Database schoolmanagement.
+Import database schoolmanagement.sql
+Open Your browser put inside browser “http://localhost/schoolmanagement/”
+
+Login Details
+
+Admin : Username/Password : admin/admin
